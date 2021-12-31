@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+body{
+    background: rgb(0, 0, 0) 0% 0% no-repeat padding-box;
+    opacity: 1;
+    color:rgb(255, 255, 255);
+    }
+header h1{
+    text-align: center; 
+    margin: auto;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    font-size: 50px;
+}
+
+header img{
+    width: 1349px;
+}
+
+.desc-section {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    text-align: left;
+    width: 80%;
+    margin: auto;
+    display: flow-root;
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+}
+
+.desc_texto{
+    float: left;
+    width: 47%;
+    align-items: center;
+    padding-top: 3%;
+    margin: 1%;
+}
+.desc_texto p{
+    height: 120px;
+}
+
+.desc-section div img{
+    float: right;
+    width: 35%;
+    height: 281px;
+}
+
+.icons-section {
+    background-color: rgb(30, 26, 19);
+    height: 300px;
+    text-align: center;
+    display: flow-root;
+    margin-top: 2em;
+
+}
+.icons_centrado{
+    width: 75%;
+    padding-left: 12%;
+    display: flow-root;
+}
+
+.icons_centrado h1 {
+    padding: 4%;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.icons_centrado div {
+    float: left;
+    width: 33%;
+    text-align: center;
+    padding-top:2%;
+}
+.icons_centrado div p {
+    padding: 1px;
+    margin: 10px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+}
+.galery-section{
+    background-color: rgb(0, 0, 0);
+    height: 180px;
+    margin-top: 4em;
+    margin-bottom: 4em;
+    display: flow-root;
+}
+.galery-section div{
+    width: 80%;
+    display: flow-root;
+    padding-left: 15%;
+}
+
+.galery-section img{
+    float: left;
+    width: 30%;
+    height: 180px;
+    
+}
+footer{
+    background-color: rgb(30, 26, 19);
+    height: 60px;
+    text-align: center;
+    display: flow-root;
+    line-height: 60px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+
+
