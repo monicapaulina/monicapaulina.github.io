@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+header{
+    background-color: rgb(199, 175, 209);
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+header h1,h2{
+    color: aliceblue;
+}
